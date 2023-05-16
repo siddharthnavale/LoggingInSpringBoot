@@ -1,0 +1,5 @@
+2023-05-16 12:49:21,957 [TRACE] com.nimap.task1.controller.HomeController {1.} {http-nio-8080-exec-1} Log level: TRACE
+2023-05-16 12:49:21,961 [INFO] com.nimap.task1.controller.HomeController {1.} {http-nio-8080-exec-1} Log level: INFO
+2023-05-16 12:49:21,961 [DEBUG] com.nimap.task1.controller.HomeController {1.} {http-nio-8080-exec-1} Log level: DEBUG
+2023-05-16 12:49:21,962 [ERROR] com.nimap.task1.controller.HomeController {1.} {http-nio-8080-exec-1} Log level: ERROR
+2023-05-16 12:49:21,962 [WARN] com.nimap.task1.controller.HomeController {1.} {http-nio-8080-exec-1} Log level: WARN
